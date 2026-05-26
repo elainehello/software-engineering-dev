@@ -13,6 +13,7 @@
 
   <modules>
     <module>01-encapsulation</module>
+    <module>02-encapsulation-access</module>
   </modules>
 
   <properties>
