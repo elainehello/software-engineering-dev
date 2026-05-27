@@ -15,6 +15,7 @@
     <module>01-encapsulation</module>
     <module>02-encapsulation-access</module>
     <module>03-apie-payroll</module>
+    <module>04-lsp-liskov</module>
   </modules>
 
   <properties>
