@@ -12,6 +12,9 @@
 
   <modules>
     <module>level1</module>
+    <module>level1/ex02</module>
+    <module>level1/ex03</module>
+    <module>level1/ex04</module>
   </modules>
 
   <properties>
