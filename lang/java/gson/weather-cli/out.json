@@ -1,0 +1,112 @@
+[
+  {
+    "id": "28079",
+    "nombre": "Madrid",
+    "slug": "madrid",
+    "provincia": "Madrid",
+    "pais": "España",
+    "coordenadas": {
+      "lat": 40.40841191,
+      "lon": -3.68760088
+    }
+  },
+  {
+    "id": "45087",
+    "nombre": "Madridejos",
+    "slug": "madridejos",
+    "provincia": "Toledo",
+    "pais": "España",
+    "coordenadas": {
+      "lat": 39.4684254,
+      "lon": -3.53369545
+    }
+  },
+  {
+    "id": "49103",
+    "nombre": "Madridanos",
+    "slug": "madridanos",
+    "provincia": "Zamora",
+    "pais": "España",
+    "coordenadas": {
+      "lat": 41.47886507,
+      "lon": -5.60474823
+    }
+  },
+  {
+    "id": "28127",
+    "nombre": "Las Rozas de Madrid",
+    "slug": "rozas-de-madrid-las",
+    "provincia": "Madrid",
+    "pais": "España",
+    "coordenadas": {
+      "lat": 40.49195187,
+      "lon": -3.87457308
+    }
+  },
+  {
+    "id": "28123",
+    "nombre": "Rivas-Vaciamadrid",
+    "slug": "rivas-vaciamadrid",
+    "provincia": "Madrid",
+    "pais": "España",
+    "coordenadas": {
+      "lat": 40.32801264,
+      "lon": -3.51609802
+    }
+  },
+  {
+    "id": "28073",
+    "nombre": "Humanes de Madrid",
+    "slug": "humanes-de-madrid",
+    "provincia": "Madrid",
+    "pais": "España",
+    "coordenadas": {
+      "lat": 40.25025255,
+      "lon": -3.82844738
+    }
+  },
+  {
+    "id": "50275",
+    "nombre": "Valmadrid",
+    "slug": "valmadrid",
+    "provincia": "Zaragoza",
+    "pais": "España",
+    "coordenadas": {
+      "lat": 41.44445656,
+      "lon": -0.88353971
+    }
+  },
+  {
+    "id": "CO-3675707",
+    "nombre": "Madrid",
+    "slug": "madrid",
+    "provincia": "Cundinamarca",
+    "pais": "Colombia",
+    "coordenadas": {
+      "lat": 4.73245,
+      "lon": -74.26419
+    }
+  },
+  {
+    "id": "MX-3996933",
+    "nombre": "Madrid",
+    "slug": "madrid",
+    "provincia": "Colima",
+    "pais": "México",
+    "coordenadas": {
+      "lat": 19.08459,
+      "lon": -103.87123
+    }
+  },
+  {
+    "id": "MX-3977698",
+    "nombre": "Lamadrid",
+    "slug": "lamadrid",
+    "provincia": "Coahuila",
+    "pais": "México",
+    "coordenadas": {
+      "lat": 27.05087,
+      "lon": -101.79552
+    }
+  }
+]
